@@ -1,0 +1,10 @@
+
+.work_button{
+    display: inline-block;
+  background-color: var(--title-color-dark);
+  color: var(--container-color);
+  padding: 0.7rem 1rem;
+  border-radius: 0.5rem;
+  font-weight:bold;
+  margin-top: 20px;
+}
