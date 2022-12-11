@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.aeae5fbf.css",
+    "main.js": "/static/js/main.45fdcd2a.js",
+    "static/js/787.d3befce1.chunk.js": "/static/js/787.d3befce1.chunk.js",
+    "static/media/about.jpeg": "/static/media/about.d104d00e99c4b7b7862b.jpeg",
+    "static/media/Screenshot (570).png": "/static/media/Screenshot (570).03b9e7958a6fc06ab25a.png",
+    "static/media/profile3.jpeg": "/static/media/profile3.bebe01cb8f691dfc5b85.jpeg",
+    "static/media/Screenshot (569).png": "/static/media/Screenshot (569).713d918c80a98a751f40.png",
+    "static/media/Omar Abdullah_KPI_CMT2.pdf": "/static/media/Omar Abdullah_KPI_CMT2.c7a86f9efd84e74c60ff.pdf",
+    "static/media/Screenshot (568).png": "/static/media/Screenshot (568).c4b294a0bdf100e97b57.png",
+    "static/media/contact.webp": "/static/media/contact.3641dcd6c181e83f13ba.webp",
+    "index.html": "/index.html",
+    "main.aeae5fbf.css.map": "/static/css/main.aeae5fbf.css.map",
+    "main.45fdcd2a.js.map": "/static/js/main.45fdcd2a.js.map",
+    "787.d3befce1.chunk.js.map": "/static/js/787.d3befce1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aeae5fbf.css",
+    "static/js/main.45fdcd2a.js"
+  ]
+}
