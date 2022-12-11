@@ -24,7 +24,7 @@ const RecentWork = () => {
           <img src={d.img} alt="" className='w-72' />
           
           
-          <a href="https://assignment11-b34c1.web.app/" className='work_button'>Live Link</a>
+         
           <Link to={`/details/${d.id} `} className='work_button ml-5'>Details</Link>
        </div>
         ))

@@ -2,24 +2,36 @@
     {    "id":"01",
         "title":" Programming Quiz website",
         "img":"/Screenshot (568).png",
+        "imgs":["/Screenshot (568).png","/Screenshot (582).png","/Screenshot (583).png"],
         "KeyFeatures":"It’s a programming quiz website. Here everyone can participate programming quiz.",
-        "TechnologyUsed":["ReactJs", "React - router dom", "firebase hooks", "Toastify", "Tailwind CSS", "Daisyui"]
+        "TechnologyUsed":["ReactJs", "React - router dom", "firebase hooks", "Toastify", "Tailwind CSS", "Daisyui"],
+        "gitclient":"https://github.com/Omarabdullah99/b6-quiz-crackerz-Omarabdullah99",
+        "livelink":"https://vocal-stroopwafel-ceb062.netlify.app/"
+        
     },
 
     {
         "id":"02",
         "title":"Learning website",
         "img":"/Screenshot (569).png",
+        "imgs":["/Screenshot (569).png","/Screenshot (580).png","/Screenshot (581).png"],
         "KeyFeatures":"It’s a skill based learningcourse selling website. Here user can buy different courses to grow up their skill. Implemented Firebase Login Authentication. Authorized users can buy courses",
-        "TechnologyUsed": ["ReactJs","React - router dom","firebase hooks" , "Toastify", "Tailwind CSS", "Daisyui", "Firebase", "Express", "MongoDB"]
+        "TechnologyUsed": ["ReactJs","React - router dom","firebase hooks" , "Toastify", "Tailwind CSS", "Daisyui", "Firebase", "Express", "MongoDB"],
+        "gitclient":"https://github.com/Omarabdullah99/b610-learning-platfrom-client-side-Omarabdullah99",
+        "gitserver":"https://github.com/Omarabdullah99/b610-learning-platfrom-server-side-omarabdullah99",
+        "livelink":"https://vocal-stroopwafel-ceb062.netlify.app/"
     },
 
     {   
         "id":"03",  
         "title":" Homemade Food Service website",
         "img":"/Screenshot (570).png",
+        "imgs":["/Screenshot (570).png","/Screenshot (584).png","/Screenshot (585).png"],
         "KeyFeatures":" Implemented Firebase Login Authentication.Authorized users can add service and reviewAfter logging in, the user can access the private ",
-        "TechnologyUsed": ["ReactJs","React - router dom","firebase hooks" , "Toastify", "Tailwind CSS", "Daisyui", "Firebase", "Express", "MongoDB"]
+        "TechnologyUsed": ["ReactJs","React - router dom","firebase hooks" , "Toastify", "Tailwind CSS", "Daisyui", "Firebase", "Express", "MongoDB"],
+        "gitclient":"https://github.com/Omarabdullah99/b6a11-service-review-client-side-Omarabdullah99",
+        "gitserver":"https://github.com/Omarabdullah99/b6a11-service-review-server-side-Omarabdullah99",
+        "livelink":"https://vocal-stroopwafel-ceb062.netlify.app/"
 
     }
 
